@@ -1,0 +1,45 @@
+{"frames": {
+
+"yellow6.png":
+{
+	"frame": {"x":709,"y":1,"w":489,"h":1021},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":489,"h":1021},
+	"sourceSize": {"w":489,"h":1021}
+},
+"yellow7 .png":
+{
+	"frame": {"x":584,"y":1024,"w":524,"h":1019},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":524,"h":1019},
+	"sourceSize": {"w":524,"h":1019}
+},
+"yellow9.png":
+{
+	"frame": {"x":1,"y":990,"w":581,"h":1002},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":581,"h":1002},
+	"sourceSize": {"w":581,"h":1002}
+},
+"yellow10.png":
+{
+	"frame": {"x":1,"y":1,"w":706,"h":987},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":706,"h":987},
+	"sourceSize": {"w":706,"h":987}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.1",
+	"image": "yellow-1.png",
+	"format": "RGBA8888",
+	"size": {"w":1199,"h":2044},
+	"scale": "1",
+	"related_multi_packs": [ "yellow-0.json", "yellow-2.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:c07ac79efd9995827b71ae8aff7f40a5:267b1ee9c461b31bc50e9a5838f111fe:13b3503ad15d3be942ae46d1d995ab8a$"
+}
+}
